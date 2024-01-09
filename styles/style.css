@@ -3,7 +3,7 @@ body{
 }
 header{
     background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
-     url("/images/Banner\ Image.png");
+     url("../images/Banner\ Image.png");
     color: #FFF;
 background-repeat: no-repeat;
 background-size: 100% 100%;
@@ -50,7 +50,7 @@ margin: auto;
 
 }
 .container{
- background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("/images/Vectorrr.png");
+ background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../images/Vectorrr.png");
 background-repeat: no-repeat;
 width: 1320px;
 height: 600px;
