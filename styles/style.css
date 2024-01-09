@@ -131,3 +131,41 @@ margin-top: 40px;
 border-radius: 8px;
 
 }
+.content{
+    background: white;
+ display: flex; 
+ margin: 0px auto;
+width: 1320px;
+height: 500px;
+margin-top: 100px;
+
+overflow: hidden;
+
+}
+.content-text h4{
+    color: #F00;
+    height: 28;
+    margin: 0 auto; 
+    
+}
+.content-text2 h1{
+    color: #F00;
+    width: 126px;
+    height: 58px;
+    margin:10px; 
+}
+.content-text{
+    font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+margin: 10px; 
+}
+.content img{
+border-radius: 463px;
+border: 15px solid #F00;
+margin: 10px ; 
+width: 364.844px;
+height: 364.844px;   
+}
