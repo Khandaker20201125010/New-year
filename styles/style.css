@@ -237,3 +237,109 @@ font-weight: 900;
 line-height: normal;
 text-align: center;
 }
+.holiday-sale{
+    display: flex;
+    width: 100%;
+}
+.one{
+    
+    position:absolute;
+
+}
+.two{
+    position:absolute;
+
+}
+.best{
+   margin-left: 230px;
+}
+
+.bst{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+width: 700px;
+
+}
+h1{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.show-img{
+   
+}
+.pro-img{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: auto;
+    
+}
+.imga img{
+    width: 320px;
+    height: 345px;
+}
+.ea{
+    margin: auto;
+    width: 900px;
+    text-align: center;
+    margin-top: 120px;
+    
+}
+.email{
+    width: 100%;
+    margin: auto;
+}
+.jk{
+    margin: auto;
+   margin-top: 48px;
+}
+.sub{
+ width: 180px;
+height: 50px;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+
+
+}
+.te{
+width: 438px;
+height: 50px;
+background: #FFF;
+border-radius: 50px 0px 0px 50px;
+
+}
+.mm{
+    width: 1600px;
+height: 609px;
+    background-color:black; 
+    margin-top: 120px;
+}
+.nn{
+    display: flex;
+    justify-content: space-between;
+   width: 100%;
+    color: #FFF;
+}
+.kk{
+    display: flex;
+    justify-content: space-between;
+}
+.oo{
+    display: flex;
+    justify-content: space-between;
+   width: 100%;
+}
+.imm{
+    width: 100%;
+}
